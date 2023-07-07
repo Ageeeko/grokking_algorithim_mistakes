@@ -1,0 +1,1 @@
+page 9: writes nil instead of null (it's good to use null beacause it used in most languages but nil in only in ruby)
